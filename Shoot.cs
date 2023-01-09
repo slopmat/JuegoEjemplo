@@ -2,7 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+<<<<<<< HEAD
 //Cambio2
+=======
+>>>>>>> parent of a9982a2 (Update Shoot.cs)
 public class Shoot : MonoBehaviour
 {
     public GameObject bullet;
