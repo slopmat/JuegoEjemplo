@@ -1,8 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+<<<<<<< HEAD
 //cambio1
 //cambio2
+=======
+
+>>>>>>> parent of 1837b23 (Update Shoot.cs)
 public class Shoot : MonoBehaviour
 {
     public GameObject bullet;
