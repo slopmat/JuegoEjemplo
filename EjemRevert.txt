@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Cambio1
 Cambio2
+=======
+>>>>>>> parent of 065e8e3 (Cambio1slm)
