@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//cambio1
 public class Shoot : MonoBehaviour
 {
     public GameObject bullet;
