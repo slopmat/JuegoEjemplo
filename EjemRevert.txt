@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Cambio1
 Cambio2
+=======
+	Cambio1
+>>>>>>> parent of abe3423 (Cambio1)
